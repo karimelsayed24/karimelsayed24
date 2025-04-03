@@ -116,7 +116,6 @@ Currently working at **The Fourth Pyramid**, I'm continuously expanding my exper
 ### Project Impact
 
 <div align="center">
-
 ```mermaid
 graph LR
     A[36 Projects] --> B[140k+ Downloads]
@@ -131,57 +130,7 @@ graph LR
     style D fill:#d1f5d3,stroke:#4d94ff,stroke-width:1px
     style E fill:#d1f5d3,stroke:#4d94ff,stroke-width:1px
     style F fill:#d1f5d3,stroke:#4d94ff,stroke-width:1px
-  
-  <!-- Project Timeline - Replace URL with your actual chart -->
-  ![Project Timeline](https://quickchart.io/chart?c={type:'horizontalBar',data:{labels:['Mega-Store','DealDash','Accountrix','صيدليتي','konfa_skora','Charlotte Sweets'],datasets:[{label:'Project Duration (months)',data:[6,4,5,3,2,4],backgroundColor:['rgba(54,162,235,0.8)','rgba(75,192,192,0.8)','rgba(255,159,64,0.8)','rgba(153,102,255,0.8)','rgba(255,99,132,0.8)','rgba(201,203,207,0.8)']}]}})
-  
-</div>
 
-### Key Projects
-
-| Project | Category | Technologies | Features |
-|---------|----------|--------------|----------|
-| **Mega-Store** | E-Commerce | Flutter, Firebase, BLoC | Product categorization, Payment integration, User profiles |
-| **DealDash** | Marketplace | Flutter, RESTful APIs, Cubit | Auction system, Real-time updates, Notifications |
-| **Accountrix** | Finance | Flutter, SQLite, Provider | Financial tracking, Reports, Invoice management |
-| **صيدليتي** | Healthcare | Flutter, Firebase, BLoC | Multi-pharmacy integration, Medicine search, Order tracking |
-| **konfa_skora** | Sports | Flutter, Hive, BLoC | Event management, Live scoring, Team profiles |
-| **Charlotte Sweets** | Food & Beverage | Flutter, Firebase, Provider | Order management, Delivery tracking, Inventory control |
-
-### <details><summary>View More Projects</summary>
-  I have completed over 30 additional projects across various domains including:
-  - Enterprise management solutions
-  - Booking systems
-  - Social networking applications
-  - Educational platforms
-  - Lifestyle & fitness trackers
-  - Content delivery systems
-</details>
-
-## 📱 Development Workflow
-
-<div align="center">
-  
-  <!-- Development Workflow Diagram -->
-  ```mermaid
-  graph LR
-    A[Requirement Analysis] --> B[UI/UX Design]
-    B --> C[Architecture Setup]
-    C --> D[Development]
-    D --> E[Testing]
-    E --> F[Deployment]
-    F --> G[Maintenance]
-    
-    style A fill:#b3e0ff,stroke:#4d94ff
-    style B fill:#b3e0ff,stroke:#4d94ff
-    style C fill:#b3e0ff,stroke:#4d94ff
-    style D fill:#b3e0ff,stroke:#4d94ff
-    style E fill:#b3e0ff,stroke:#4d94ff
-    style F fill:#b3e0ff,stroke:#4d94ff
-    style G fill:#b3e0ff,stroke:#4d94ff
-  ```
-  
-</div>
 
 ## 📬 Let's Connect
 
