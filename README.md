@@ -83,24 +83,24 @@ Currently working at **The Fourth Pyramid**, I'm continuously expanding my exper
 
 ## 📊 Portfolio Analysis
 
-<div align="center">
-  
-  <!-- Project Distribution by Type -->
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['E-Commerce Apps','Healthcare Solutions','Sports Applications','Financial Tools','B2B Solutions','Educational Platforms'],datasets:[{data:[9,7,6,5,5,4],backgroundColor:['rgba(54,162,235,0.8)','rgba(75,192,192,0.8)','rgba(255,159,64,0.8)','rgba(153,102,255,0.8)','rgba(255,99,132,0.8)','rgba(46,204,113,0.8)'],borderColor:'white',borderWidth:1}]},options:{plugins:{legend:{position:'right',labels:{padding:20,font:{size:12}}},title:{display:true,text:'Project Distribution by Category',fontSize:16,padding:20}}}}" alt="Project Distribution by Category" width="48%"/>
-  
-  <!-- Technology Usage Stats -->
-  <img src="https://quickchart.io/chart?c={type:'polarArea',data:{labels:['Flutter','Firebase','REST APIs','SQLite','Hive','Bloc/Cubit'],datasets:[{data:[36,28,25,20,15,31],backgroundColor:['rgba(54,162,235,0.7)','rgba(255,99,132,0.7)','rgba(255,206,86,0.7)','rgba(75,192,192,0.7)','rgba(153,102,255,0.7)','rgba(255,159,64,0.7)']}]},options:{plugins:{legend:{position:'bottom'},title:{display:true,text:'Technology Usage Across Projects',fontSize:16,padding:20}}}}" alt="Technology Usage Across Projects" width="48%"/>
-  
-  <!-- Skill Growth Over Time -->
-  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['2021 Q1','2021 Q2','2021 Q3','2021 Q4','2022 Q1','2022 Q2'],datasets:[{label:'Flutter Proficiency',data:[60,72,80,87,92,98],fill:false,borderColor:'rgba(54,162,235,0.8)',tension:0.1},{label:'Backend Integration',data:[50,60,70,78,85,90],fill:false,borderColor:'rgba(255,99,132,0.8)',tension:0.1},{label:'Architecture Design',data:[40,55,65,78,85,92],fill:false,borderColor:'rgba(75,192,192,0.8)',tension:0.1}]},options:{scales:{y:{beginAtZero:true,max:100}},plugins:{title:{display:true,text:'Skill Growth Over Time (%)',fontSize:16,padding:20}}}}" alt="Skill Growth Over Time" width="75%"/>
-  
-  <!-- Project Quality Metrics -->
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Code Quality','UI/UX Design','Performance','Scalability','Security','Documentation'],datasets:[{label:'Average Metrics',data:[4.7,4.8,4.6,4.5,4.4,4.3],fill:true,backgroundColor:'rgba(54,162,235,0.2)',borderColor:'rgb(54,162,235)',pointBackgroundColor:'rgb(54,162,235)',pointBorderColor:'#fff'}]},options:{scale:{ticks:{beginAtZero:true,max:5,stepSize:1}},plugins:{title:{display:true,text:'Project Quality Metrics (scale 1-5)',fontSize:16,padding:20}}}}" alt="Project Quality Metrics" width="48%"/>
-  
-  <!-- Project Complexity Distribution -->
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Low','Medium','Medium-High','High','Very High'],datasets:[{label:'Number of Projects',data:[4,8,10,9,5],backgroundColor:['rgba(75,192,192,0.8)','rgba(54,162,235,0.8)','rgba(255,206,86,0.8)','rgba(255,159,64,0.8)','rgba(255,99,132,0.8)']}]},options:{scales:{y:{beginAtZero:true}},plugins:{title:{display:true,text:'Project Complexity Distribution',fontSize:16,padding:20}}}}" alt="Project Complexity Distribution" width="48%"/>
+### Project Distribution
+- 🛒 **E-Commerce Apps**: 9 مشاريع
+- 💊 **Healthcare Solutions**: 7 مشاريع
+- ⚽ **Sports Applications**: 6 مشاريع
+- 💰 **Financial Tools**: 5 مشاريع
+- 🏢 **B2B Solutions**: 5 مشاريع
+- 📚 **Educational Platforms**: 4 مشاريع
 
-</div>
+### Technology Expertise
+<!-- التقنيات بنظام النجوم -->
+| Technology | Expertise Level |
+|------------|-----------------|
+| Flutter    | ⭐⭐⭐⭐⭐ |
+| Firebase   | ⭐⭐⭐⭐⭐ |
+| REST APIs  | ⭐⭐⭐⭐☆ |
+| SQLite     | ⭐⭐⭐⭐☆ |
+| Bloc/Cubit | ⭐⭐⭐⭐⭐ |
+| Hive       | ⭐⭐⭐⭐☆ |
 
 ### Development Performance Metrics
 
@@ -113,25 +113,23 @@ Currently working at **The Fourth Pyramid**, I'm continuously expanding my exper
 | **Average App Store Rating** | 4.7/5 | Top 12% |
 | **Bug Resolution Time** | <24 hours | Top 7% |
 
+### Project Quality Metrics
+<!-- مقاييس جودة المشاريع -->
+- **Code Quality**: 94% 
+- **UI/UX Design**: 96%
+- **Performance**: 92% 
+- **Scalability**: 90%
+- **Security**: 88%
+- **Documentation**: 86%
+
 ### Project Impact
+- **Total Downloads**: 140,000+
+- **Average Rating**: 4.7/5 ⭐
+- **Enterprise Clients**: 12 
+- **Startup Solutions**: 8
+- **Consumer Apps**: 16
 
-<div align="center">
-```mermaid
-graph LR
-    A[36 Projects] --> B[140k+ Downloads]
-    A --> C[4.7 Average Rating]
-    A --> D[12 Enterprise Clients]
-    A --> E[8 Startup Solutions]
-    A --> F[16 Consumer Apps]
-    
-    style A fill:#b3e0ff,stroke:#4d94ff,stroke-width:2px
-    style B fill:#d1f5d3,stroke:#4d94ff,stroke-width:1px
-    style C fill:#d1f5d3,stroke:#4d94ff,stroke-width:1px
-    style D fill:#d1f5d3,stroke:#4d94ff,stroke-width:1px
-    style E fill:#d1f5d3,stroke:#4d94ff,stroke-width:1px
-    style F fill:#d1f5d3,stroke:#4d94ff,stroke-width:1px
-
-
+### Projects by Complexity Level
 ## 📬 Let's Connect
 
 <div align="center">
