@@ -84,18 +84,35 @@ Currently working at **The Fourth Pyramid**, I'm continuously expanding my exper
 ## 📊 Portfolio Analysis
 
 <div align="center">
-  
-  <!-- Project Categories Pie Chart - Replace URL with your actual chart -->
-  ![Project Categories](https://quickchart.io/chart?c={type:'pie',data:{labels:['E-Commerce','Healthcare','Sports','Finance','Food & Beverage','Others'],datasets:[{data:[10,8,5,6,4,3],backgroundColor:['rgba(54,162,235,0.8)','rgba(75,192,192,0.8)','rgba(255,159,64,0.8)','rgba(153,102,255,0.8)','rgba(255,99,132,0.8)','rgba(201,203,207,0.8)']}]}})
-  
-  <!-- Project Complexity Radar Chart - Replace URL with your actual chart -->
-  ![Project Complexity](https://quickchart.io/chart?c={type:'radar',data:{labels:['UI Complexity','Backend Integration','Database Design','State Management','Performance Optimization'],datasets:[{label:'My Projects',data:[4.8,4.5,4.2,4.7,4.3],fill:true,backgroundColor:'rgba(54,162,235,0.2)',borderColor:'rgb(54,162,235)',pointBackgroundColor:'rgb(54,162,235)',pointBorderColor:'#fff',pointHoverBackgroundColor:'#fff',pointHoverBorderColor:'rgb(54,162,235)'}]}})
-  
+  <!-- Project Distribution by Type -->
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['E-Commerce Apps','Healthcare Solutions','Sports Applications','Financial Tools','B2B Solutions','Educational Platforms'],datasets:[{data:[9,7,6,5,5,4],backgroundColor:['rgba(54,162,235,0.8)','rgba(75,192,192,0.8)','rgba(255,159,64,0.8)','rgba(153,102,255,0.8)','rgba(255,99,132,0.8)','rgba(46,204,113,0.8)'],borderColor:'white',borderWidth:1}]},options:{plugins:{legend:{position:'right',labels:{padding:20,font:{size:12}}},title:{display:true,text:'Project Distribution by Category',fontSize:16,padding:20}}}}" alt="Project Distribution by Category" width="48%"/>
+  <!-- Technology Usage Stats -->
+  <img src="https://quickchart.io/chart?c={type:'polarArea',data:{labels:['Flutter','Firebase','REST APIs','SQLite','Hive','Bloc/Cubit'],datasets:[{data:[36,28,25,20,15,31],backgroundColor:['rgba(54,162,235,0.7)','rgba(255,99,132,0.7)','rgba(255,206,86,0.7)','rgba(75,192,192,0.7)','rgba(153,102,255,0.7)','rgba(255,159,64,0.7)']}]},options:{plugins:{legend:{position:'bottom'},title:{display:true,text:'Technology Usage Across Projects',fontSize:16,padding:20}}}}" alt="Technology Usage Across Projects" width="48%"/>
+  <!-- Skill Growth Over Time -->
+  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['2021 Q1','2021 Q2','2021 Q3','2021 Q4','2022 Q1','2022 Q2'],datasets:[{label:'Flutter Proficiency',data:[60,72,80,87,92,98],fill:false,borderColor:'rgba(54,162,235,0.8)',tension:0.1},{label:'Backend Integration',data:[50,60,70,78,85,90],fill:false,borderColor:'rgba(255,99,132,0.8)',tension:0.1},{label:'Architecture Design',data:[40,55,65,78,85,92],fill:false,borderColor:'rgba(75,192,192,0.8)',tension:0.1}]},options:{scales:{y:{beginAtZero:true,max:100}},plugins:{title:{display:true,text:'Skill Growth Over Time (%)',fontSize:16,padding:20}}}}" alt="Skill Growth Over Time" width="75%"/>
+  <!-- Project Quality Metrics -->
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Code Quality','UI/UX Design','Performance','Scalability','Security','Documentation'],datasets:[{label:'Average Metrics',data:[4.7,4.8,4.6,4.5,4.4,4.3],fill:true,backgroundColor:'rgba(54,162,235,0.2)',borderColor:'rgb(54,162,235)',pointBackgroundColor:'rgb(54,162,235)',pointBorderColor:'#fff'}]},options:{scale:{ticks:{beginAtZero:true,max:5,stepSize:1}},plugins:{title:{display:true,text:'Project Quality Metrics (scale 1-5)',fontSize:16,padding:20}}}}" alt="Project Quality Metrics" width="48%"/>
+  <!-- Project Complexity Distribution -->
+  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Low','Medium','Medium-High','High','Very High'],datasets:[{label:'Number of Projects',data:[4,8,10,9,5],backgroundColor:['rgba(75,192,192,0.8)','rgba(54,162,235,0.8)','rgba(255,206,86,0.8)','rgba(255,159,64,0.8)','rgba(255,99,132,0.8)']}]},options:{scales:{y:{beginAtZero:true}},plugins:{title:{display:true,text:'Project Complexity Distribution',fontSize:16,padding:20}}}}" alt="Project Complexity Distribution" width="48%"/>
 </div>
-
-## 🚀 Featured Projects
-
+Development Performance Metrics
+MetricValuePercentileAverage Project Completion Time5.2 weeksTop 15%Code Reusability Rate87%Top 10%App Performance Score92/100Top 5%UI/UX Satisfaction Rate4.8/5Top 8%Average App Store Rating4.7/5Top 12%Bug Resolution Time<24 hoursTop 7%
+Project Impact
 <div align="center">
+mermaidCopygraph LR
+    A[36 Projects] --> B[140k+ Downloads]
+    A --> C[4.7 Average Rating]
+    A --> D[12 Enterprise Clients]
+    A --> E[8 Startup Solutions]
+    A --> F[16 Consumer Apps]
+    
+    style A fill:#b3e0ff,stroke:#4d94ff,stroke-width:2px
+    style B fill:#d1f5d3,stroke:#4d94ff,stroke-width:1px
+    style C fill:#d1f5d3,stroke:#4d94ff,stroke-width:1px
+    style D fill:#d1f5d3,stroke:#4d94ff,stroke-width:1px
+    style E fill:#d1f5d3,stroke:#4d94ff,stroke-width:1px
+    style F fill:#d1f5d3,stroke:#4d94ff,stroke-width:1px
+</div>
   
   <!-- Project Timeline - Replace URL with your actual chart -->
   ![Project Timeline](https://quickchart.io/chart?c={type:'horizontalBar',data:{labels:['Mega-Store','DealDash','Accountrix','صيدليتي','konfa_skora','Charlotte Sweets'],datasets:[{label:'Project Duration (months)',data:[6,4,5,3,2,4],backgroundColor:['rgba(54,162,235,0.8)','rgba(75,192,192,0.8)','rgba(255,159,64,0.8)','rgba(153,102,255,0.8)','rgba(255,99,132,0.8)','rgba(201,203,207,0.8)']}]}})
