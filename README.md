@@ -11,9 +11,9 @@
 
 ## About Me 🧑‍💻
 
-I'm **Karim Elsayed**, a dedicated **Flutter Developer** with a Bachelor's degree in **Computer and Information Science** from **Mansoura University**. With over a year of experience in mobile app development, I specialize in creating high-performance, cross-platform applications.
+I'm **Karim Elsayed**, a dedicated **Flutter Developer** with a Bachelor's degree in **Computer Science** from **Mansoura University**. With **2+ years of experience** in mobile app development, I specialize in creating high-performance, cross-platform applications using **Clean Architecture** and modern state management solutions.
 
-Currently working at **The Fourth Pyramid**, I'm continuously expanding my expertise in Flutter, Firebase, and Clean Architecture.
+Currently working at **WaitBuzz** and as a **Freelance Flutter Developer**, I'm continuously expanding my expertise in Flutter, Firebase, and scalable app architectures. I'm seeking opportunities to advance to **Mid-Level Flutter Developer**.
 
 <div align="center">
   
@@ -32,10 +32,29 @@ Currently working at **The Fourth Pyramid**, I'm continuously expanding my exper
   <!-- Contribution Calendar -->
   <img src="https://github.com/karimelsayed24/karimelsayed24/blob/output/github-contribution-grid-snake-dark.svg" alt="Contributions" width="100%"/>
   
-  <!-- Contributions Badge -->
-  <img src="https://img.shields.io/badge/Contributions-379_in_last_year-brightgreen?style=for-the-badge" alt="379 Contributions in the last year"/>
-  
 </div>
+
+## 💼 Current Work Experience
+
+### WaitBuzz (April 2025 – Present)
+**Flutter Developer** | Mansoura, Egypt
+
+- **Sale Buy** – Marketplace & live auction app with Agora live streaming, real-time bidding, and Pusher-powered chat
+- **Al Sultan Al Awal** – Multi-category e-commerce app for Kuwaiti mall with Firebase notifications
+- **Samoulla** – Multi-vendor e-commerce platform for trades and tools with dynamic categorization
+- **Al Kallaa** – Dessert shop app with category-based browsing and ordering system
+
+### Freelance Flutter Developer (May 2024 – Present)
+
+- **Neo Nerd** – E-Learning platform for university students with course management and PDF access
+- **Accountrix** – Professional platform connecting companies and accountants with real-time chat and secure payments
+- **Konaf Skora** – Dessert shop app with Visa payments and Clean Architecture implementation
+
+### Previous Experience
+**Fourth Pyramid** (June 2024 – March 2025)
+- **HR Insight** – Employee attendance & leave management system
+- **Charlotte Sweets** – Dual-app order management system for managers and delivery staff
+- **Gomltak** – Wholesale e-commerce app with integrated delivery & payment
 
 ## 🛠️ Skills & Technologies
 
@@ -52,9 +71,10 @@ Currently working at **The Fourth Pyramid**, I'm continuously expanding my exper
       Backend
         Firebase
         RESTful APIs
+        Cloud Messaging
       Database
-        SQLite
-        Hive
+        Firebase
+        Local Database
       State Management
         BLoC
         Cubit
@@ -62,9 +82,13 @@ Currently working at **The Fourth Pyramid**, I'm continuously expanding my exper
       Architecture
         Clean Architecture
         MVVM
-      Version Control
+        Design Patterns
+      Tools & Workflow
         Git
         GitHub
+        Jira
+        Agile Methodology
+        CI/CD
   ```
   
   <!-- Technology Badges -->
@@ -72,64 +96,53 @@ Currently working at **The Fourth Pyramid**, I'm continuously expanding my exper
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   ![REST APIs](https://img.shields.io/badge/REST%20APIs-61DAFB?style=for-the-badge&logo=postman&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![Hive](https://img.shields.io/badge/Hive-FF9900?style=for-the-badge&logo=hive&logoColor=white)
   ![Bloc & Cubit](https://img.shields.io/badge/Bloc%20%26%20Cubit-1178D4?style=for-the-badge&logo=flutter&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge&logoColor=white)
+  ![Agora](https://img.shields.io/badge/Agora-1976D2?style=for-the-badge&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
   
 </div>
 
 ## 📊 Portfolio Analysis
 
-### Project Distribution
-- 🛒 **E-Commerce Apps**: 9 مشاريع
-- 💊 **Healthcare Solutions**: 7 مشاريع
-- ⚽ **Sports Applications**: 6 مشاريع
-- 💰 **Financial Tools**: 5 مشاريع
-- 🏢 **B2B Solutions**: 5 مشاريع
-- 📚 **Educational Platforms**: 4 مشاريع
-
 ### Technology Expertise
-<!-- التقنيات بنظام النجوم -->
 | Technology | Expertise Level |
 |------------|-----------------|
 | Flutter    | ⭐⭐⭐⭐⭐ |
 | Firebase   | ⭐⭐⭐⭐⭐ |
-| REST APIs  | ⭐⭐⭐⭐☆ |
-| SQLite     | ⭐⭐⭐⭐☆ |
+| Clean Architecture | ⭐⭐⭐⭐⭐ |
 | Bloc/Cubit | ⭐⭐⭐⭐⭐ |
-| Hive       | ⭐⭐⭐⭐☆ |
+| REST APIs  | ⭐⭐⭐⭐☆ |
+| Git/GitHub | ⭐⭐⭐⭐☆ |
 
-### Development Performance Metrics
+### Project Categories
+- 🛒 **E-Commerce & Marketplace**: Sale Buy, Al Sultan Al Awal, Samoulla, Gomltak
+- 🍰 **Food & Restaurant**: Charlotte Sweets, Al Kallaa, Konaf Skora
+- 📚 **Educational Platforms**: Neo Nerd
+- 💼 **B2B Solutions**: Accountrix, HR Insight
+- 🎥 **Live Streaming**: Agora integration for real-time auctions
 
-| Metric | Value | Percentile |
-|--------|-------|------------|
-| **Average Project Completion Time** | 5.2 weeks | Top 15% |
-| **Code Reusability Rate** | 87% | Top 10% |
-| **App Performance Score** | 92/100 | Top 5% |
-| **UI/UX Satisfaction Rate** | 4.8/5 | Top 8% |
-| **Average App Store Rating** | 4.7/5 | Top 12% |
-| **Bug Resolution Time** | <24 hours | Top 7% |
+### Key Achievements
+- **2+ Years** of Flutter development experience
+- **Multi-vendor marketplace** development with live streaming
+- **Clean Architecture** implementation across projects
+- **Real-time features** using Pusher and Agora
+- **Firebase integration** for cloud services and notifications
+- **Google Play Console** deployment experience
 
-### Project Quality Metrics
-<!-- مقاييس جودة المشاريع -->
-- **Code Quality**: 94% 
-- **UI/UX Design**: 96%
-- **Performance**: 92% 
-- **Scalability**: 90%
-- **Security**: 88%
-- **Documentation**: 86%
+## 🎓 Education & Certifications
 
-### Project Impact
-- **Total Downloads**: 140,000+
-- **Average Rating**: 4.7/5 ⭐
-- **Enterprise Clients**: 12 
-- **Startup Solutions**: 8
-- **Consumer Apps**: 16
+**Bachelor of Computer Science** (2018-2022)  
+*Mansoura University - Faculty of Computer & Information Sciences*  
+Grade: Very Good
 
-### Projects by Complexity Level
+### Completed Courses
+- Mobile Application Development Using Flutter (CCIC)
+- Digital Egypt Pioneers Initiative - DEPI Mobile Development Using Android - Flutter
+- Career Essentials in Software Development by Microsoft and LinkedIn
+
 ## 📬 Let's Connect
 
 <div align="center">
@@ -137,9 +150,10 @@ Currently working at **The Fourth Pyramid**, I'm continuously expanding my exper
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-elsayed24/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karimelsayed2422@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karimelsayed24)
+  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201070423719)
   
   <!-- Connect with me animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8E44AD&center=true&vCenter=true&width=435&lines=Let's+build+something+amazing+together!;Open+to+new+opportunities;Flutter+enthusiast+and+problem+solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8E44AD&center=true&vCenter=true&width=435&lines=Let's+build+something+amazing+together!;Seeking+Mid-Level+Opportunities;Flutter+enthusiast+and+problem+solver" alt="Typing SVG" />
   
 </div>
 
